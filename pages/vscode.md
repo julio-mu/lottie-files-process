@@ -1,4 +1,4 @@
-# NO-CODE animations for the web.
+# NO-CODE LALA animations for the web.
 
 **"How come?"** you must be thinking. Well just what you heard. In this guide I'm gonna show you how to create animations that can be used in any website or application directly in After Effects.
 

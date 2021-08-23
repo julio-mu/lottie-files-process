@@ -1,7 +1,9 @@
 {
-  "index": "What is Nextra",
-  "features": "Features",
-  "advanced": "Advanced",
-  "docs": "Docs Theme",
-  "blog": "Blog Theme"
+  "index": "Introduction",
+  "examples": "Examples",
+  "tools": "🔨 Tools",
+  "illustrator": "🎨 Ilustrator",
+  "aftereffects": "🎥 After Effects",
+  "figma": "🖼 Figma",
+  "vscode": "👩‍💻 Visual Studio Code"
 }
